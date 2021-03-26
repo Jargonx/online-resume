@@ -1,7 +1,8 @@
 ---
-title: A-Levels
-organization: Saint Ipsum High School
-location: Graz, AT
-start: 2004-09-01
-end: 2012-07-01
+title: International Baccalaureate
+organization: Anglo-Chinese School (Independent)
+organizationUrl: https://www.acsindep.moe.edu.sg
+location: Singapore
+start: 2010-01-05
+end: 2016-11-05
 ---

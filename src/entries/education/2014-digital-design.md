@@ -1,7 +1,6 @@
 ---
-title: Bachelor, Graphic Design
-organization: Lorem Arts Academy
-location: Vienna, AT
-start: 2013-04-16
-end: 2013-10-01
+title: Student
+organization: National University of Singapore
+location: Singapore
+start: 2019-08-01
 ---
