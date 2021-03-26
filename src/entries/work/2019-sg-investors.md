@@ -7,10 +7,10 @@ start: 2019-12-01
 end: 2020-01-25
 ---
 
-SG Investors is a one-stop corporate service provider, providing services such as Accounting and Bookkeeping, Tax
-Planning and Payroll Management.
+SG Investors is a one-stop corporate service provider, providing services such as Accounting and Bookkeeping, Tax Planning and Payroll Management.
 
-Achievements/Tasks
+
+## Achievements/Tasks
 * Developed a Mobile Application in a team of 4 for users to track their expenses for the purposes
 of bookkeeping and accounting.
 <!-- THIS IS A COMMENT TODO: There are no numbers here? How to quantify my work? -->
