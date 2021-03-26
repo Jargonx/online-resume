@@ -1,44 +1,45 @@
 {
     "name": "Neil Gupta",
-    "occupation": "Front-End Developer",
+    "occupation": "NUS Computer Science and Business Administration Major ",
     "location": "Singapore",
-    "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "avatar": "neil_head_square.png",
+    "pronouns": "he/his",
+    "email": "neil.gupta@u.nus.edu",
+    "telephone": "+65 8322 9664",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "Java",
+        "Python",
+        "Flutter / Dart",
+        "Github",
+        "Algorithms",
+        "Data Structures",
+        "Intellij",
+        "VSCode",
+        "C",
+        "Object Oriented Programming (OOP)",
+        "Firebase",
+        "UI / UX"
     ],
     "languages": [
         {
             "name": "English",
-            "level": "native"
+            "level": "Full Professional Proficiency"
         },
         {
-            "name": "German",
-            "level": "fluent"
-        },
-        {
-            "name": "French",
-            "level": "basic"
+            "name": "Hindi",
+            "level": "Full Professional Proficiency"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@Jargonx",
+            "url": "https://github.com/Jargonx"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "Neil Gupta",
+            "url": "https://www.linkedin.com/in/neil-gupta-4b3066175"
         }
     ]
 }
