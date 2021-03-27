@@ -32,14 +32,14 @@
     ],
     "social": [
         {
-            "name": "Github",
-            "user": "@Jargonx",
-            "url": "https://github.com/Jargonx"
-        },
-        {
             "name": "LinkedIn",
             "user": "Neil Gupta",
             "url": "https://www.linkedin.com/in/neil-gupta-4b3066175"
+        },
+        {
+            "name": "Github",
+            "user": "@Jargonx",
+            "url": "https://github.com/Jargonx"
         }
     ]
 }
