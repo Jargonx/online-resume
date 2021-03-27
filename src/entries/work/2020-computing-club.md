@@ -12,8 +12,8 @@ NUS Students Computing Club is the official faculty club that acts as representa
 <br/>
 
 #### Achievements/Tasks
-* Led a team of 4 Directors under the Welfare and Sports Cell in Delivering initiatives for the
+* - Led a team of 4 Directors under the Welfare and Sports Cell in Delivering initiatives for the
 Student Population.
 <!-- THIS IS A COMMENT TODO: Consider writing down the number of people in NUS Students Computing Club -->
-* Acted as a communication channel between the directors and faculty staff advisors.
-* Made executive decisions for the faculty as an active voice in the presidential cell.
+* - Acted as a communication channel between the directors and faculty staff advisors.
+* - Made executive decisions for the faculty as an active voice in the presidential cell.
