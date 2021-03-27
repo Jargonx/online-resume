@@ -6,30 +6,6 @@
     "pronouns": "he/his",
     "email": "neil.gupta@u.nus.edu",
     "telephone": "+65 8322 9664",
-    "skills": [
-        "Java",
-        "Python",
-        "Flutter / Dart",
-        "Github",
-        "Algorithms",
-        "Data Structures",
-        "Intellij",
-        "VSCode",
-        "C",
-        "Object Oriented Programming (OOP)",
-        "Firebase",
-        "UI / UX"
-    ],
-    "languages": [
-        {
-            "name": "English",
-            "level": "Proficient"
-        },
-        {
-            "name": "Hindi",
-            "level": "Proficient"
-        }
-    ],
     "social": [
         {
             "name": "LinkedIn",
