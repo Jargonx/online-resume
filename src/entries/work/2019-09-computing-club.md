@@ -7,7 +7,7 @@ start: 2019-08-14
 end: 2020-09-14
 ---
 
-###### *NUS Students Computing Club is the official faculty club that acts as representative of all undergraduates in NUS School of Computing. The club takes care of student life and organizes student activities to promote campus vibrancy. It safeguards the interest of the undergraduates, ensuring their voices are heard and provides welfare.*
+#### *NUS Students Computing Club is the official faculty club that acts as representative of all undergraduates in NUS School of Computing. The club takes care of student life and organizes student activities to promote campus vibrancy. It safeguards the interest of the undergraduates, ensuring their voices are heard and provides welfare.*
 
 <br/>
 

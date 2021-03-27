@@ -7,7 +7,7 @@ start: 2019-12-01
 end: 2020-01-25
 ---
 
-###### *SG Investors is a one-stop corporate service provider, providing services such as Accounting and Bookkeeping, Tax Planning and Payroll Management.*
+#### *SG Investors is a one-stop corporate service provider, providing services such as Accounting and Bookkeeping, Tax Planning and Payroll Management.*
 
 <br/>
 

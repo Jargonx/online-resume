@@ -22,3 +22,28 @@ Developed a Command Line Interface styled desktop application called PIVOT in a 
 ### CP2106 Independent Software Development Project (Orbital) (05/2020 - 08/2020)
 
 Developed a mobile application called NUStudy in a team of 2 using Intellij IDEA in order to connect users from across the NUS campus to form study groups to assist each other in advancing their university learning where I learned Firebase, Flutter and Dart for the fullstack development of the application from scratch and obtained the Apollo level Achievement, the second highest achievement level.
+
+<!-- "skills": [
+        "Java",
+        "Python",
+        "Flutter / Dart",
+        "Github",
+        "Algorithms",
+        "Data Structures",
+        "Intellij",
+        "VSCode",
+        "C",
+        "Object Oriented Programming (OOP)",
+        "Firebase",
+        "UI / UX"
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "level": "Proficient"
+        },
+        {
+            "name": "Hindi",
+            "level": "Proficient"
+        }
+    ],>
