@@ -3,4 +3,6 @@ tags: introduction
 title: About Me
 ---
 
-Hey! I am Neil, a third year undergraduate at National University of Singapore. I love exploring avenues of applying the knowledge I have learnt. I am keen on doing internships that are focused on Artificial Intelligence and Software Engineering to develop my skills in these areas. I wish to pursue purposeful business ideas via start-ups in order to learn business development and analysis. As a hobby, I love reading strategy books.
+Hey! I am Neil, an undergraduate at National University of Singapore. I have chosen a lifelong pursuit of self-development, be it development in character, skillset or personality. I always aspire to be the best version of myself. Self-development is a never-ending journey, and the primary requirement is to continuously learn. I believe in holistic learning and the cross application of different ideas.
+
+On this quest, I stumbled upon the question, is it possible to learn faster? What is the essence of learning? These questions have fueled my interest in various fields such as Artificial Intelligence, Software Engineering and Business Analysis. Learning to apply what I have learned is another key interest that I have picked up and to hone my understanding, I love reading strategy books.  
