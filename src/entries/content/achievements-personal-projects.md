@@ -15,7 +15,7 @@ Developed a mobile application called NUStudy in a team of 2 using Intellij IDEA
 
 <br/>
 
-## Achievements 
+## Achievements :trophy: 
 
 ------
 
@@ -23,30 +23,21 @@ Developed a mobile application called NUStudy in a team of 2 using Intellij IDEA
 
 Assisted in the development of a mobile application called Memory Box targeted at the population in Singapore prone to developing Dementia. The application's purpose is to regress the mental decline of currently diagnosed dementia patients and possibly reduce the chances of developing dementia in the mentally healthy elders.
 
+<br/>
 
-<!-- "skills": [
-        "Java",
-        "Python",
-        "Flutter / Dart",
-        "Github",
-        "Algorithms",
-        "Data Structures",
-        "Intellij",
-        "VSCode",
-        "C",
-        "Object Oriented Programming (OOP)",
-        "Firebase",
-        "UI / UX"
-    ],
-    "languages": [
-        {
-            "name": "English",
-            "level": "Proficient"
-        },
-        {
-            "name": "Hindi",
-            "level": "Proficient"
-        }
-    ] 
-    TODO: Figure out what caused the side bar to stop existing, Current possibilities:
-    1. removal of the skills and languages section>
+## Extracurricular Activities
+
+------
+
+### Vice Zone Leader, Ridge View Residential College (07/2020 - 12/2020)
+
+#### *NUS Students Computing Club is the official faculty club that acts as representative of all undergraduates in NUS School of Computing. The club takes care of student life and organizes student activities to promote campus vibrancy. It safeguards the interest of the undergraduates, ensuring their voices are heard and provides welfare.*
+
+I shaped the Zone Committee with 2 other Zone Leaders from scratch to lead a team of 14 Zone Committee members and approximately 250 residents. I also pushed for new initiatives for student life and headed the largest scale student initiative within Ridge View Residential College involving 134 participants.
+
+### Vice President Of Internal Relations, NUS Students Computing Club (08/2019 - 09/2020)
+
+#### *NUS Students Computing Club is the official faculty club that acts as representative of all undergraduates in NUS School of Computing. The club takes care of student life and organizes student activities to promote campus vibrancy. It safeguards the interest of the undergraduates, ensuring their voices are heard and provides welfare.*
+
+Led a team of 4 directors under the Welfare and Sports Cell in delivering initiatives for the student population of 3500 students. I acted as a communication channel between the directors and faculty staff advisors and made executive decisions for the faculty as an active voice in the Presidential Cell.
+
