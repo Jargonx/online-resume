@@ -7,7 +7,7 @@ start: 2018-01-08
 end: 2018-04-08
 ---
 
-#### *Wonderlabs.io is a rapid prototyping development studio based in Singapore and Yogyakarta. Also a VC-backed platform allowing you to hire the best developers from Indonesia.*
+#### *`Wonderlabs.io` is a rapid prototyping development studio based in Singapore and Yogyakarta. Also a VC-backed platform allowing you to hire the best developers from Indonesia.*
 
 <br/>
 

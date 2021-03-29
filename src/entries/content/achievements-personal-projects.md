@@ -15,7 +15,7 @@ Developed a mobile application called NUStudy in a team of 2 using Intellij IDEA
 
 <br/>
 
-## Achievements :trophy: 
+## Achievements
 
 ------
 

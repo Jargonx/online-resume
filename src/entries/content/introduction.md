@@ -11,4 +11,4 @@ On this quest, I stumbled upon the question, is it possible to learn faster? Wha
 
 <br/>
 
-Here's my [resume](www.google.com)!
+Here's my [resume](https://www.google.com/?client=safari)!
