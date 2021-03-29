@@ -12,5 +12,3 @@ On this quest, I stumbled upon the question, is it possible to learn faster? Wha
 <br/>
 
 Here's my [resume](www.google.com)!
-
-<!-- Insert google drive link to resume up here>

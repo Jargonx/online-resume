@@ -41,3 +41,4 @@ I shaped the Zone Committee with 2 other Zone Leaders from scratch to lead a tea
 
 Led a team of 4 directors under the Welfare and Sports Cell in delivering initiatives for the student population of 3500 students. I acted as a communication channel between the directors and faculty staff advisors and made executive decisions for the faculty as an active voice in the Presidential Cell.
 
+<!-- Adding this makes the sidebar disappear I think >
