@@ -19,6 +19,10 @@ Developed a mobile application called NUStudy in a team of 2 using Intellij IDEA
 
 ------
 
+### NUS Venture Initiation Programme, $10,000 Grant (07/2022)
+
+Worked in a team of 5 to develop a business pitch for a idea called Qubo Pay. Pitched the idea to NUS Enterprise under the program and was awarded $10,000 to further develop the idea.
+
 ### Yong Loo Lin School of Medicine: Medical Grand Challenge (3rd Prize, Nascent Category)(08/2020)
 
 Assisted in the development of a mobile application called Memory Box targeted at the population in Singapore prone to developing Dementia. The application's purpose is to regress the mental decline of currently diagnosed dementia patients and possibly reduce the chances of developing dementia in the mentally healthy elders.
